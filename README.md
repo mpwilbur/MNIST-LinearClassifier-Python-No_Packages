@@ -12,3 +12,10 @@ Usage
 + MNIST_OvA_Multiclass_LC.py = main Python script. 
 + train.csv = training data (42000 images with 745 features, all labelled 0-9)
 + test.csv = testing data (28000 images with 745 features, no labels)
+
+Settings: 5000 iterations per class, alpha = 0.001
+
+Total runtime ~ 
+
+Results: Accuracy on testing data (calculated by Kaggle) = 
+Not a remarkably high accuracy for this exercise, however shows the effectiveness of simple linear classification
