@@ -1,5 +1,5 @@
 # MNIST-LinearClassifier-Python-No_Packages
-MNIST OvA multi-class classification implemented in Python, no packages
+MNIST Linear Classification (OvA) multi-class classification implemented in Python, no packages
 
 This is a short project on classification using the MNIST dataset. This project involves implimenting One vs All (OvA) multi-class linear classification in Python without the use of machine learning packages. It helps to give an overall view of how a simple multi-class linear classifier works.
 
@@ -18,4 +18,4 @@ Settings: 5000 iterations per class, alpha = 0.001
 Total runtime ~ 
 
 Results: Accuracy on testing data (calculated by Kaggle) = 
-Not a remarkably high accuracy for this exercise, however shows the effectiveness of simple linear classification
+Not a remarkably high accuracy for this exercise, however shows the effectiveness of simple linear classification of multi-class data
