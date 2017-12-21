@@ -10,8 +10,9 @@ https://www.kaggle.com/c/digit-recognizer/data
 
 Usage
 + MNIST_OvA_Multiclass_LC.py = main Python script. 
-+ train.csv = training data (42000 images with 745 features, all labelled 0-9)
-+ test.csv = testing data (28000 images with 745 features, no labels)
++ data - zipped data file
+  + train.csv = training data (42000 images with 745 features, all labelled 0-9)
+  + test.csv = testing data (28000 images with 745 features, no labels)
 
 Settings: 5000 iterations per class, alpha = 0.001
 
