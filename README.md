@@ -14,9 +14,9 @@ Usage
   + train.csv = training data (42000 images with 745 features, all labelled 0-9)
   + test.csv = testing data (28000 images with 745 features, no labels)
 
-Settings: 5000 iterations per class, alpha = 0.001
+Settings: 2000 iterations per class, alpha = 0.0001
 
-Total runtime ~ 
+Total training time ~ 8 min.
 
-Results: Accuracy on testing data (calculated by Kaggle) = 
+Results: Accuracy on testing data (calculated by Kaggle) = 91.1%
 Not a remarkably high accuracy for this exercise, however shows the effectiveness of simple linear classification of multi-class data
